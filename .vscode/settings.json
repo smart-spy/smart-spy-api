@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/porta/.cache/pypoetry/virtualenvs/smart-spy-api-py3.7/bin/python",
+    "python.linting.pylamaEnabled": true,
+    "python.linting.enabled": true
+}
